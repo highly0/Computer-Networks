@@ -1,0 +1,6 @@
+request send failed: Operation not supported
+Are the values in the theta column close to 0?
+Are the values in the delta column close to 0.06?
+Out of        1 packets sent, the server dropped        0 packets or roughly 0%
+Did you detect roughly 12.5 dropped packets?
+If so, great! If not, keep working on it.
